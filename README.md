@@ -74,9 +74,6 @@ Through this project, I learned:
 - Conditional logic
 - Version control with Git
 - Project documentation
-## Output
-![AI Chatbot GUI](screenshot.png)
-
 ## Author
 
 **Manusha**
